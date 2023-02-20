@@ -1,6 +1,6 @@
-Hello , I am Sam , 
-This is the basic automate script by cypress . 
-I am studying this tools .
-You can see my test case in file  . 
+Hello , I am Sam /n
+This is the basic automate script by cypress . /n
+I am studying this tools . /n
+You can see my test case in file  .  /n
 
 Thanks you.
